@@ -1,0 +1,3 @@
+[submodule "Modules/smLibrary"]
+	path = Modules/smLibrary
+	url = https://github.com/ghiboz/smLibrary.git
